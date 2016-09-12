@@ -24,11 +24,27 @@ public class Array2040 {
 
         String baseString = sc.next();
         System.out.println(baseString.substring(1,3) + " " + baseString.length());
+        String [] shifts = new String[baseString.length()];
         for (int i = 0; i < baseString.length(); i++) {
-            String newString = baseString.substring(baseString.length() - i, baseString.length()) +
-                    baseString.substring(0, baseString.length() - i);
-            System.out.println(newString);
+            shifts[i] = baseString.substring(baseString.length() - i, baseString.length()) +
+                                                                    baseString.substring(0, baseString.length() - i);
         }
+        int lexMinIndex = 0;
+        for (int i = 1; i < shifts.length; i++) {
+            lexMinIndex = isMinLexString(shifts[lexMinIndex], shifts[i]) ? lexMinIndex : i;
+        }
+        System.out.println(shifts[lexMinIndex]);
         sc.close();
+    }
+    
+    private static boolean isMinLexString(String first, String second) {
+        for (int i = 0; i < first.length(); i++) {
+            if (first.charAt(i) > second.charAt(i)) {
+                return false;
+            } else if (first.charAt(i) < second.charAt(i)) {
+                return true;
+            }
+        }
+        return true;
     }
 }
