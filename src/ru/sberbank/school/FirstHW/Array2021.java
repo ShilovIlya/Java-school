@@ -1,4 +1,4 @@
-package ru.sberbank.school;
+package ru.sberbank.school.FirstHW;
 
 import java.util.Scanner;
 
