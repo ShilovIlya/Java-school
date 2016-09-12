@@ -1,4 +1,4 @@
-package ru.sberbank.school;
+package ru.sberbank.school.FirstHW;
 
 public class HelloWorld {
 	public static void main(String[] args) {
