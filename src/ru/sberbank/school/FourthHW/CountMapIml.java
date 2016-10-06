@@ -8,6 +8,10 @@ public class CountMapIml<T> implements CountMap<T> {
 
     private Map<T, Integer> map;
 
+    CountMapIml() {
+        map = new HashMap<>();
+    }
+
     @Override
     public void add(T t) {
         if (map.containsKey(t)) {
