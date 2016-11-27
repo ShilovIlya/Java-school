@@ -1,9 +1,9 @@
-package main.java.ru.sberbank.school.lesson05.implementations;
+package ru.sberbank.school.lesson05.implementations;
 
-import main.java.ru.sberbank.school.lesson05.exceptions.CarriedOutMaintenanceWorkException;
-import main.java.ru.sberbank.school.lesson05.exceptions.IncorrectAmountOfMoneyException;
-import main.java.ru.sberbank.school.lesson05.interfaces.TerminalServer;
-import main.java.ru.sberbank.school.lesson05.exceptions.NotEnoughMoneyException;
+import ru.sberbank.school.lesson05.exceptions.CarriedOutMaintenanceWorkException;
+import ru.sberbank.school.lesson05.exceptions.IncorrectAmountOfMoneyException;
+import ru.sberbank.school.lesson05.exceptions.NotEnoughMoneyException;
+import ru.sberbank.school.lesson05.interfaces.TerminalServer;
 
 public class TerminalServerImpl implements TerminalServer {
     private int balance = 400;

@@ -1,4 +1,9 @@
-package main.java.ru.sberbank.school.lesson06.simplespring;
+package ru.sberbank.school.lesson06;
+
+import ru.sberbank.school.lesson06.simplespring.A;
+import ru.sberbank.school.lesson06.simplespring.D;
+import ru.sberbank.school.lesson06.simplespring.Factorable;
+import ru.sberbank.school.lesson06.simplespring.Factory;
 
 /**
  * Created by svetlana on 25.09.16.

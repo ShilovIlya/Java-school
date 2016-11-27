@@ -1,4 +1,4 @@
-package main.java.ru.sberbank.school.lesson05.exceptions;
+package ru.sberbank.school.lesson05.exceptions;
 
 /**
  * Throws an exception when you try to enter a PIN code at the time of account lockout.

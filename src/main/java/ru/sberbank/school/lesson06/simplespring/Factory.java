@@ -1,4 +1,4 @@
-package main.java.ru.sberbank.school.lesson06.simplespring;
+package ru.sberbank.school.lesson06.simplespring;
 
 import java.io.IOException;
 import java.lang.reflect.Field;

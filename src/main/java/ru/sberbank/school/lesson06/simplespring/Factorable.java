@@ -1,4 +1,4 @@
-package main.java.ru.sberbank.school.lesson06.simplespring;
+package ru.sberbank.school.lesson06.simplespring;
 
 public interface Factorable {
 

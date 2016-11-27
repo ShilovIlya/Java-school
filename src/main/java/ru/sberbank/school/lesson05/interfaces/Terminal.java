@@ -1,4 +1,4 @@
-package main.java.ru.sberbank.school.lesson05.interfaces;
+package ru.sberbank.school.lesson05.interfaces;
 
 public interface Terminal {
 

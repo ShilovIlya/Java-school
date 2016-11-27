@@ -1,4 +1,4 @@
-package main.java.ru.sberbank.school.lesson05.implementations;
+package ru.sberbank.school.lesson05.implementations;
 
 public class MessageHandler {
 

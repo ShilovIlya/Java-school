@@ -1,6 +1,6 @@
-package test.java.ru.sberbank.school.lesson05;
+package ru.sberbank.school.lesson05;
 
-import main.java.ru.sberbank.school.lesson05.implementations.TerminalImpl;
+import ru.sberbank.school.lesson05.implementations.TerminalImpl;
 
 public class TerminalUserTest {
     public static void main(String[] args) {

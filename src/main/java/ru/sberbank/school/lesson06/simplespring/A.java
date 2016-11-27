@@ -1,6 +1,6 @@
-package main.java.ru.sberbank.school.lesson06.simplespring;
+package ru.sberbank.school.lesson06.simplespring;
 
-import main.java.ru.sberbank.school.lesson06.simplespring.x.CImlp;
+import ru.sberbank.school.lesson06.simplespring.x.CImlp;
 
 /**
  * Created by svetlana on 25.09.16.

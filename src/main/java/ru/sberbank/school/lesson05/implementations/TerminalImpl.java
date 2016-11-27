@@ -1,9 +1,9 @@
-package main.java.ru.sberbank.school.lesson05.implementations;
+package ru.sberbank.school.lesson05.implementations;
 
-import main.java.ru.sberbank.school.lesson05.exceptions.*;
-import main.java.ru.sberbank.school.lesson05.interfaces.TerminalServer;
-import main.java.ru.sberbank.school.lesson05.interfaces.PinValidator;
-import main.java.ru.sberbank.school.lesson05.interfaces.Terminal;
+import ru.sberbank.school.lesson05.exceptions.*;
+import ru.sberbank.school.lesson05.interfaces.TerminalServer;
+import ru.sberbank.school.lesson05.interfaces.PinValidator;
+import ru.sberbank.school.lesson05.interfaces.Terminal;
 
 public class TerminalImpl implements Terminal {
     private final TerminalServer server = new TerminalServerImpl();;

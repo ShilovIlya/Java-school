@@ -1,4 +1,4 @@
-package main.java.ru.sberbank.school.lesson06.simplespring;
+package ru.sberbank.school.lesson06.simplespring;
 
 /**
  * Created by svetlana on 26.09.16.

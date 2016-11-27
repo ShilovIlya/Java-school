@@ -1,8 +1,8 @@
-package main.java.ru.sberbank.school.lesson05.interfaces;
+package ru.sberbank.school.lesson05.interfaces;
 
-import main.java.ru.sberbank.school.lesson05.exceptions.IncorrectAmountOfMoneyException;
-import main.java.ru.sberbank.school.lesson05.exceptions.CarriedOutMaintenanceWorkException;
-import main.java.ru.sberbank.school.lesson05.exceptions.NotEnoughMoneyException;
+import ru.sberbank.school.lesson05.exceptions.IncorrectAmountOfMoneyException;
+import ru.sberbank.school.lesson05.exceptions.CarriedOutMaintenanceWorkException;
+import ru.sberbank.school.lesson05.exceptions.NotEnoughMoneyException;
 
 public interface TerminalServer {
 

@@ -1,4 +1,4 @@
-package main.java.ru.sberbank.school.FourthHW;
+package ru.sberbank.school.FourthHW;
 
 import java.util.HashMap;
 import java.util.Map;

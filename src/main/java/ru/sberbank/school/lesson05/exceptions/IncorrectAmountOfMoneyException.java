@@ -1,4 +1,4 @@
-package main.java.ru.sberbank.school.lesson05.exceptions;
+package ru.sberbank.school.lesson05.exceptions;
 
 /**
  * Throws an exception if the amount of the argument is not a multiple of 100.

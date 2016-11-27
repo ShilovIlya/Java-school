@@ -1,4 +1,4 @@
-package main.java.ru.sberbank.school.lesson05.exceptions;
+package ru.sberbank.school.lesson05.exceptions;
 
 /**
  * Throws an exception if the pin code is not correct.

@@ -1,4 +1,4 @@
-package main.java.ru.sberbank.school.FourthHW;
+package ru.sberbank.school.FourthHW;
 
 public class UseCountMap {
     public static void main(String[] args) {

@@ -1,8 +1,8 @@
-package main.java.ru.sberbank.school.lesson05.implementations;
+package ru.sberbank.school.lesson05.implementations;
 
-import main.java.ru.sberbank.school.lesson05.exceptions.AccountIsLockedException;
-import main.java.ru.sberbank.school.lesson05.exceptions.IncorrectPinCodeException;
-import main.java.ru.sberbank.school.lesson05.interfaces.PinValidator;
+import ru.sberbank.school.lesson05.exceptions.AccountIsLockedException;
+import ru.sberbank.school.lesson05.exceptions.IncorrectPinCodeException;
+import ru.sberbank.school.lesson05.interfaces.PinValidator;
 
 import java.util.Date;
 

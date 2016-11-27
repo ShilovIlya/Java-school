@@ -1,7 +1,7 @@
-package main.java.ru.sberbank.school.lesson06.simplespring.x;
+package ru.sberbank.school.lesson06.simplespring.x;
 
-import main.java.ru.sberbank.school.lesson06.simplespring.Component;
-import main.java.ru.sberbank.school.lesson06.simplespring.D;
+import ru.sberbank.school.lesson06.simplespring.Component;
+import ru.sberbank.school.lesson06.simplespring.D;
 
 /**
  * Created by svetlana on 26.09.16.
